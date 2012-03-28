@@ -1,0 +1,7 @@
+h1. CMMFile
+
+CMMFile is a fast and easy to use binary file exchange interface between c++, Mathematica and Matlab
+
+* easy data exchange between c++, Mathematica and Matlab
+* works as cout in c++
+* deals with sequences of data types
